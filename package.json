@@ -1,0 +1,27 @@
+{
+  "name": "captain-america",
+  "version": "1.0.0",
+  "description": "curso platzi js profesional",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelvelarde/captain-america.git"
+  },
+  "keywords": [
+    "platzi",
+    "javascript",
+    "js"
+  ],
+  "author": "@miguelvelarde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelvelarde/captain-america/issues"
+  },
+  "homepage": "https://github.com/miguelvelarde/captain-america#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
