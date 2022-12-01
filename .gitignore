@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # Video files
-.mp4
+*.mp4
